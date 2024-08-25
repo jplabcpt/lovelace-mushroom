@@ -29,6 +29,8 @@ Mushroom mission is to propose easy to use components to build your [Home Assist
 The goal of Mushroom is not to provide custom card for deep customization. You can use the excellent [UI Lovelace Minimalist][ui-lovelace-minimalist] and [Button card][button-card] plugins for this.
 
 ## Installation
+this is where jp added text
+
 
 ### HACS
 
